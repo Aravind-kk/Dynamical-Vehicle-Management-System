@@ -1,0 +1,21 @@
+project/
+│
+├───src/
+│   └───vehicles/
+│       │   Vehicle.java
+│       │   Bus.java
+│       │   RedBus.java
+│       │   Volvo.java
+│       │   Express.java
+│       │   Driver.java
+│       │   BusDepoWithReflection.java
+│
+└───bin/
+    └───vehicles/
+        │   Vehicle.class
+        │   Bus.class
+        │   RedBus.class
+        │   Volvo.class
+        │   Express.class
+        │   Driver.class
+        │   BusDepoWithReflection.class
